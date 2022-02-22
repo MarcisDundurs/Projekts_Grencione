@@ -7,7 +7,7 @@ print(y)
 1 Burke Elza
 
 2 Dundurs Mārcis
-
+abs(sqrt(64)**2)
 3 Dūrēja Annemarija
 
 4 Dzērve Artūrs
